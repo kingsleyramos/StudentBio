@@ -1,0 +1,17 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    background: black;
+    color: white;
+    }
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+img{
+    text-align: center;
+}
